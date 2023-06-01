@@ -1,0 +1,10 @@
+test_ecke
+.env
+coin_test/.env
+coin_test/tempCodeRunnerFile.js
+__pycache__
+old_code
+autoswap_js/tempCodeRunnerFile.js
+autoswap_js/test
+documentation/txt/doc
+documentation/plt/doc
